@@ -8,5 +8,5 @@ change=modified <br>
 new file= untracked <br>
 
 add (staged kora) 
-commit (unchanged banano hoye gese)
+commit (unchanged banano hoye gese).
 
